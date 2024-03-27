@@ -4,9 +4,8 @@ package target.classes.za.ac.cput.factory;
   219145091
  */
 
+
 import target.classes.za.ac.cput.domain.BenefitsAdministration;
-
-
 
 public class BenefitsAdministrationFactory {
 
